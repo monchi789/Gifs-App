@@ -29,5 +29,5 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/gif-Apps.git
+   git clone https://github.com/monchi789/Gifs-App.git
    cd gif-Apps
