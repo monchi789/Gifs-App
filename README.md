@@ -1,27 +1,33 @@
-# 01GifsApp
+![Gif Apps](./images/gifs-app.png)
+# GIF Apps - SPA en Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+GIF Apps es una aplicación de una sola página (SPA) construida con Angular que permite buscar y mostrar imágenes de GIFs utilizando la API de Giphy.
 
-## Development server
+## Características
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Búsqueda de GIFs**: Los usuarios pueden buscar GIFs ingresando palabras clave.
+- **Mostrar resultados**: Muestra los resultados de la búsqueda en una cuadrícula de imágenes.
+- **Responsivo**: Diseño adaptativo que se ajusta a diferentes tamaños de pantalla.
 
-## Code scaffolding
+## Tecnologías utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: Framework de desarrollo para construir aplicaciones web.
+- **Angular CLI**: Herramienta de línea de comandos para gestionar el ciclo de vida de la aplicación Angular.
+- **Bootstrap**: Framework CSS para un diseño responsivo y moderno.
+- **Giphy API**: API utilizada para obtener los GIFs.
 
-## Build
+## Requisitos previos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
-## Running unit tests
+- [Node.js](https://nodejs.org/) (versión 18 o superior)
+- [Angular CLI](https://angular.io/cli) (versión 17 o superior)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instalación
 
-## Running end-to-end tests
+Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/tu-usuario/gif-Apps.git
+   cd gif-Apps
